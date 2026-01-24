@@ -1,1 +1,1 @@
-# LangChain-Q-A
+# LangChain-Q&A
